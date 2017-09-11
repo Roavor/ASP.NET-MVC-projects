@@ -4,6 +4,7 @@ using EssentialTools.Models;
 
 namespace EssentialTools.Tests
 {
+    //Smell testing
     [TestClass]
     public class UnitTest1
     {
